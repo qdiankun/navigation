@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationOne</string>
+
+    <string name="tab_menu_alert">提醒</string>
+    <string name="tab_menu_message">信息</string>
+    <string name="tab_menu_my">我的</string>
+    <string name="tab_menu_setting">设置</string>
+</resources>

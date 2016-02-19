@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 表示从当前位置移动到左边,时长为3000ms -->
+    <translate
+        android:duration="800"
+        android:fillAfter="false"
+        android:fromXDelta="0%"
+        android:toXDelta="100%"></translate>
+    <!-- 表示透明度从0到1.0,时长为3000ms -->
+    <alpha
+        android:duration="800"
+        android:fillAfter="false"
+        android:fromAlpha="1.0"
+        android:toAlpha="0"></alpha>
+</set>
