@@ -30,3 +30,15 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+
+# Intellij project files
+NavigationOne/.idea/libraries
+NavigationOne/.idea/.name
+NavigationOne/.idea/compiler.xml
+NavigationOne/.idea/gradle.xml
+NavigationOne/.idea/modules.xml
+NavigationOne/.idea/runConfigurations.xml
+NavigationOne/.idea/vcs.xml
+NavigationOne/.idea/workspace.xml
+NavigationOne/.idea/misc.xml
